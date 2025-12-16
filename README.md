@@ -33,18 +33,6 @@ A FastAPI + Gradio powered menstrual cycle tracking application that helps users
 
 ---
 
-## 🧩 Project Structure
-menstruation_tracker/
-│── static/
-│    ├── chart.png
-│    ├── image.png
-│    ├── init.py
-│    ├── app.py
-│── tracker.py
-│── period_data.csv
-│── requirements.txt
----
-
 ## 🛠 Tech Stack
 - Python 3
 - FastAPI
